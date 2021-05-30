@@ -57,7 +57,7 @@
 ### Contact me 🤝:
 <img align="right" alt="WA" height="400px" src="https://raw.githubusercontent.com/sashithacj/sashithacj/52be004fdb0ede0f083e67717b88874056a676c5/photo6168106983551511359.jpg"/> 
 
-- <a href="https://sashithachamara.com">🌐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sashithachamara.com</a>
+- <a href="https://sashithachamara.com">🌐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sashithachamara.com</a>
 - <a href="https://linkedin.com/in/sashithachamara"><img align="left" alt="sashitha's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /> linkedin.com/in/sashithachamara</a>
 - <a href="https://www.facebook.com/sashithachamara"><img align="left" alt="sashitha's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /> facebook.com/sashithachamara</a>
 - <a href="https://instagram.com/sashithachamara"><img align="left" alt="sashitha's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /> instagram.com/sashithachamara</a>
