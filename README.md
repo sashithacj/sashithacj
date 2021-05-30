@@ -55,7 +55,7 @@
 <br><br><br><br><br><br><br><br>
 
 ### Contact me 🤝:
-<a href="https://wa.me/94765363753"><img align="right" alt="WA" height="180px" src="https://raw.githubusercontent.com/sashithacj/sashithacj/main/whatsapp.jpg"/></a>
+<a href="https://wa.me/94765363753"><img align="right" alt="WA" height="170px" width="340px" src="https://raw.githubusercontent.com/sashithacj/sashithacj/main/whatsapp.jpg"/></a>
 
 - <a href="https://sashithachamara.com">🌐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sashithachamara.com</a>
 - <a href="https://linkedin.com/in/sashithachamara"><img align="left" alt="sashitha's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /> linkedin.com/in/sashithachamara</a>
